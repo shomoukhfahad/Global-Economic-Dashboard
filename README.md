@@ -1,12 +1,6 @@
 # Global-Economic-Dashboard
 Interactive dashboard exploring global economic performance across countries using key financial indicators such as GDP, inflation, and unemployment.
 
-# Global Economic Dashboard
-
-Interactive dashboard exploring global economic performance across countries using key financial indicators such as GDP, inflation, and unemployment.
-
----
-
 ## Project Overview
 
 This project presents an interactive financial dashboard that analyzes global economic indicators using publicly available data from the World Bank. The dashboard provides a clear overview of the global economy and allows users to explore economic trends across countries.
