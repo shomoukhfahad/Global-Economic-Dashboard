@@ -14,7 +14,6 @@ The main objective is to help stakeholders quickly understand:
 
 The dashboard is designed for non-technical decision-makers and focuses on clarity, usability, and meaningful insights.
 
----
 
 ## Data Source
 
@@ -34,7 +33,6 @@ It includes annual economic indicators for multiple countries between 2010 and t
 
 Missing values in recent years were excluded from analysis to ensure accuracy.
 
----
 
 ## Methodology & Data Preparation
 
@@ -46,7 +44,6 @@ The following steps were performed:
 - Designed an interactive dashboard using Power BI  
 - Applied filters and aggregations to present global and country-level insights  
 
----
 
 ## Dashboard Features
 
@@ -85,13 +82,11 @@ The dashboard highlights several important observations:
 
 These insights can support strategic planning, investment decisions, and policy analysis.
 
----
 
 ## Live Dashboard Link
 
-https://app.powerbi.com/groups/me/reports/4f43fe87-ccf2-4eec-a8ae-6a42ffad7437?pbi_source=desktop
+[https://app.powerbi.com/groups/me/reports/4f43fe87-ccf2-4eec-a8ae-6a42ffad7437?pbi_source=desktop](https://app.powerbi.com/view?r=eyJrIjoiZDNiYjQ2YzktOTEzOS00YWFhLWFmNWUtOGY1MTJkMDI5MGQwIiwidCI6IjRiN2E1N2JmLWJmNmItNDVkYi04MTc2LTdkMTlkN2UzOTJkZCIsImMiOjl9)
 
----
 
 ## Assumptions & Limitations
 
